@@ -13,7 +13,7 @@ alert(min(2, 3));
 alert(min(4, 1));
 
 function pow(x,n) {
-    if (n < 1 || n % 1 == 0) return;
+    if (n < 1) return;
     return x ** n;
 };
 alert(pow(2, 3));
