@@ -1,7 +1,7 @@
 "use strict";
 
 function checkAge(age) {
-  return (age > 18) || confirm('Родители разрешили?');
+    return (age > 18) || confirm('Родители разрешили?');
 };
 checkAge(18);
 checkAge(21);

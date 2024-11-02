@@ -1,11 +1,8 @@
 "use strict";
 
 let admin;
-let name = "Джон";
+let userName = "Джон";
 
-admin = name;
+admin = userName;
 
 alert(admin);
-
-let ourPlanetName = "Земля";
-let currentUserName = "Джон";

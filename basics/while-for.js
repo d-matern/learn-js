@@ -14,7 +14,7 @@ while(i < 3) {
 
 let num;
 do {
-  num = prompt("Введите число больше 100?", 0);
+    num = prompt("Введите число больше 100?", 0);
 } while (num <= 100 && num);
 
 let n = 10;

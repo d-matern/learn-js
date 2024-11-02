@@ -1,0 +1,25 @@
+{
+  "name": "learn-js",
+  "version": "1.0.0",
+  "description": "- https://learn.javascript.ru/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "npx eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-matern/learn-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-matern/learn-js/issues"
+  },
+  "homepage": "https://github.com/d-matern/learn-js#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.14.0",
+    "eslint": "^9.14.0",
+    "globals": "^15.11.0"
+  }
+}

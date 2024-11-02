@@ -1,9 +1,9 @@
 "use strict"
 
+hello("Джон")
+
 function hello(name) {
     let phrase = `Hello, ${name}!`;
-
-    debugger;  // <-- тут отладчик остановится
 
     say(phrase);
 }
