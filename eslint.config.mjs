@@ -6,7 +6,7 @@ export default [
   {
     files: ["**/*.js"],
     languageOptions: {
-      sourceType: "script"
+      sourceType: "module"
     },
     rules: {
       "no-unused-vars": "warn",
